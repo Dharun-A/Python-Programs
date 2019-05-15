@@ -1,4 +1,4 @@
-l, r, k = map(int, input().split(" ")
+l, r, k = map(int, input().split(" "))
 c = 0
 
 for i in range(l,r+1):
