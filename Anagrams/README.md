@@ -2,12 +2,13 @@ Given two strings, a and b , that may or may not be of the same length, determin
 
 Input :
 
-    test cases,t
-    two strings a and b, for each test case
+1
+cde
+abc
 
 Output:
 
-Desired O/p
+4
 
 Constraints :
 
