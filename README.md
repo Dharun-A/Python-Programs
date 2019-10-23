@@ -4,4 +4,5 @@ HackerEarth provides programming tutorials and practice problems. The basic prog
 
 -> Anagrams\
 -> Sum of the characters in a string\
--> Count Divisors
+-> Count Divisors\
+-> Fredo and Array
