@@ -4,8 +4,8 @@ Given two strings, a and b , that may or may not be of the same length, determin
 
 Input :
 
-1
-cde
+1\
+cde\
 abc
 
 Output:
