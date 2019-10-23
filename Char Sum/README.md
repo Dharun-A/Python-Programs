@@ -17,7 +17,6 @@ Output Format:
 Print the required answer on a single line
 
 Constraints:\
-
 1≤|S|≤100
 
 Sample Input\ 
