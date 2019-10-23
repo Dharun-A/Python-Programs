@@ -16,12 +16,12 @@ Output Format:
 
 Print the required answer on a single line
 
-Constraints:
+Constraints:\
 
 1≤|S|≤100
 
-Sample Input 
+Sample Input\ 
 aba
 
-Sample Output
+Sample Output\
 4
