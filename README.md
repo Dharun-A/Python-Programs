@@ -5,4 +5,4 @@ HackerEarth provides programming tutorials and practice problems. The basic prog
 -> Anagrams\
 -> Sum of the characters in a string\
 -> Count Divisors\
--> Fredo and Array
+-> Fredo and Array Update
