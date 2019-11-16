@@ -13,3 +13,5 @@ Sample Input\
 
 Sample Output\
 10
+
+Note : Since all the numbers from 1 to 10 are divisible by 1, the output is 10.
