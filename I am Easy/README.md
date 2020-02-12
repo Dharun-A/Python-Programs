@@ -1,4 +1,4 @@
-I am Easy 
+# I am Easy 
 
 This is an easy problem. 
 
@@ -22,13 +22,13 @@ Sample Input
 
 Sample Output
 
-3
-6
-9
-12
-15
-18
-21
-24
-27
+3\
+6\
+9\
+12\
+15\
+18\
+21\
+24\
+27\
 30
